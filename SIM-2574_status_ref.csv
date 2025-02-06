@@ -1,0 +1,19 @@
+﻿status_abbrev,employment_status,still_employed,hired,perm_service_stop
+H,Hired,1,1,0
+DF,Deferred,0,0,0
+RF,Refunded,0,0,0
+RT,Retired,0,0,0
+RTW,Hired - Return to Work,1,1,0
+D,Deceased,0,0,1
+SS,Service Start,1,0,0
+KIA,KIA,0,0,1
+MP,Presidential Military Leave,1,0,0
+MN,Non-Presidential Military Leave (Non-Contributing),1,0,0
+MNC,Non-Presidential Military Leave (Contributing),1,0,0
+IL,Industrial Leave (Non-Contributing),1,0,0
+LW,Leave Without Pay,1,0,0
+QU,Quit/Terminated,0,0,1
+TR,Transferred,0,0,0
+DP,Entered Old DROP,1,0,1
+RS,Resume Service,1,0,0
+EPS,Election Period Start,1,0,0
